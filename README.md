@@ -4,7 +4,7 @@
 
 #### **PT - Neste projeto,  junto com meus colegas da turma da faculdade, criamos um protótipo de aplicativo que tinha como objetivo facilitar a compra e venda de tecnologia entre empresas. Um modelo com base em business to bussiness.**
 
-Em "" você irá poder abrir os slides de apresentação do projeto no dia da entrega.
+Em "[Easy Deal.pdf](https://github.com/henrique-souza/easy_deal/blob/3a94f0aa7e6152132ad02bfcc1739f4d903934d0/Easy%20Deal.pdf)" você irá poder abrir os slides de apresentação do projeto no dia da entrega.
 
 Vídeo da execução do código em C:
 
