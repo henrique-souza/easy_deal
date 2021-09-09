@@ -5,18 +5,14 @@
 
 Em "[Easy Deal.pdf](https://github.com/henrique-souza/easy_deal/blob/3a94f0aa7e6152132ad02bfcc1739f4d903934d0/Easy%20Deal.pdf)" você irá poder abrir os slides de apresentação do projeto no dia da entrega.
 
-Vídeo da execução do código em C:
+[Vídeo da execução do código em C](https://youtu.be/FRRfzOi72wk)
 
-Vídeo da apresentação dos Slides para a turma da faculdade:
+[Vídeo da apresentação dos Slides para a turma da faculdade](https://youtu.be/yGBEvs0rieQ)
 
 > **EN - In this project, together with my colleagues from the college class, we created an application prototype that aimed to facilitate the purchase and sale of technology between companies. A model based on business to business.**
 
 In "Easy Deal Presentation" you will be able to open the project presentation slides on the day of delivery.
 
-Video of code execution in C:
+[Video of code execution in C](https://youtu.be/FRRfzOi72wk)
 
-Code Execution in C
-
-Video of the slides presentation for the college class:
-
-College presentation
+[Video of the slides presentation for the college class](https://youtu.be/yGBEvs0rieQ)
