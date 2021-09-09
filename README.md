@@ -1,4 +1,5 @@
 <img align="middle" width="200" height="200" src="https://github.com/henrique-souza/easy_deal/blob/0f7b4dfc581d88defb2d2dd1459b127cbb411773/Easy%20Deal%20Logo.png" alt="Easy Deal Logo">
+
 # EASY DEAL
 
 > **PT - Neste projeto,  junto com meus colegas da turma da faculdade, criamos um protótipo de aplicativo que tinha como objetivo facilitar a compra e venda de tecnologia entre empresas. Um modelo com base em business to bussiness.**
