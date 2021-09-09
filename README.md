@@ -2,7 +2,7 @@
 
 # EASY DEAL
 
-## Portuguese
+* Portuguese
 
 > **Neste projeto,  junto com meus colegas da turma da faculdade, criamos um protótipo de aplicativo que tinha como objetivo facilitar a compra e venda de tecnologia entre empresas. Um modelo com base em business to bussiness.**
 
@@ -12,7 +12,7 @@ Em "[Easy Deal.pdf](https://github.com/henrique-souza/easy_deal/blob/3a94f0aa7e6
 
 [Vídeo da apresentação dos Slides para a turma da faculdade](https://youtu.be/yGBEvs0rieQ)
 
-## English
+* English
 
 > **In this project, together with my colleagues from the college class, we created an application prototype that aimed to facilitate the purchase and sale of technology between companies. A model based on business to business.**
 
