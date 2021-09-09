@@ -1,4 +1,4 @@
-<img align="middle" width="200" height="200" src="https://github.com/henrique-souza/easy_deal/blob/0f7b4dfc581d88defb2d2dd1459b127cbb411773/Easy%20Deal%20Logo.png" alt="Easy Deal Logo">
+<img width="200" height="200" src="https://github.com/henrique-souza/easy_deal/blob/0f7b4dfc581d88defb2d2dd1459b127cbb411773/Easy%20Deal%20Logo.png" alt="Easy Deal Logo" style="vertical-align:middle">
 
 # EASY DEAL
 
