@@ -288,7 +288,7 @@ voltar:
                 printf("\n\nSelecione..:");
                 scanf("%i", &opP);
                 switch (opP)
-                { // Como posso evitar a repetição do filtro ? R:()
+                {
                 case 1:
                     printf("\n\n - - - -  Lista de produtos Internet das coisas - - - - -");
                     break;
@@ -303,7 +303,6 @@ voltar:
                     break;
                 default:
                     break;
-                    // meter um goto voltar para o menu do comprador.s
                 }
                 for (i = 0; i < totaL; i++)
                 {
