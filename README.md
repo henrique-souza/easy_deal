@@ -18,7 +18,7 @@ Em "[Easy Deal.pdf](https://github.com/henrique-souza/easy_deal/blob/3a94f0aa7e6
 
 > **In this project, together with my colleagues from the college class, we created an application prototype that aimed to facilitate the purchase and sale of technology between companies. A model based on business to business (B2B).**
 
-In "Easy Deal Presentation" you will be able to open the project presentation slides on the day of delivery.
+In "[Easy Deal Presentation](https://github.com/henrique-souza/easy_deal/blob/3a94f0aa7e6152132ad02bfcc1739f4d903934d0/Easy%20Deal.pdf)" you will be able to open the project presentation slides on the day of delivery.
 
 [Video of code execution in C](https://youtu.be/FRRfzOi72wk)
 
